@@ -1,0 +1,21 @@
+.navbar{
+    color:white;
+    /* justify-content: space-between; */
+}
+
+.btn {
+    margin: 5px;
+    margin-left: 10px;
+}
+
+.ddLeft {
+    /* box-sizing: border-box; */
+    padding: 2px;
+    margin-right: 900px;
+}
+
+.ddRight {
+    /* box-sizing: border-box; */
+    padding: 2px;
+    /* margin-left: 100px; */
+}
